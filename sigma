@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "4.7",
-    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1330353257880752149/1349919849148711044/epick.zip?ex=67d4da54&is=67d388d4&hm=9e8545f3bfa5dc5149e04fa4b81e655e50fc270559a00610eec9bdb1ed677f0d&",
+    "SoftwareVersion": "4.8",
+    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1329622497427197952/1349969766005211188/epick.zip?ex=67d508d1&is=67d3b751&hm=f604b21d717aca686e01660a9ee6cba8162cc2317e7a0edb8adf78b8cb07317e&",
     "Status":"True",
-    "Changelog":"[+] new ligma design :3"
+    "Changelog":"[+] Fixed api bugs :3"
 }
