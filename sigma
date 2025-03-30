@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "5",
-    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1355340347995197531/1355707013375594606/net8.0-windows.rar?ex=67e9e80b&is=67e8968b&hm=7425f19e2fe269fde6e936d974b869831f7b723d36b457e6d5554fc40ffa301f&",
+    "SoftwareVersion": "5.1",
+    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1355340347995197531/1355709843335548968/net8.0-windows.rar?ex=67e9eaae&is=67e8992e&hm=2ff6f7308feb9c0ea8b2dfce8f5424245326976d3f87bb2c0ab745eac6141e9d&",
     "Status":"True",
     "Changelog":"[+] Fixed logins!!!"
 }
